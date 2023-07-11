@@ -1,0 +1,6 @@
+README.md
+setup.py
+GEO2pandas.egg-info/PKG-INFO
+GEO2pandas.egg-info/SOURCES.txt
+GEO2pandas.egg-info/dependency_links.txt
+GEO2pandas.egg-info/top_level.txt
