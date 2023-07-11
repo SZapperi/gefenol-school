@@ -1,9 +1,7 @@
 # Hands-on activity for the XI GEFENOL summer school
 Course by Caterina A. M. La Porta and Stefano Zapperi
 
-In this hands-on activity is based on a tutorial showing the basic functionality of `GEO2pandas`.
-
-`GEO2pandas` is a python package written by Francesc Font-Clos
+This hands-on activity shows the basic functionality of `GEO2pandas`, a python package written by Francesc Font-Clos
 to retrieve data and metadata from the [Gene Expression Omnibus](https://www.ncbi.nlm.nih.gov/geo/)
 into `pandas.DataFrame` objects.
 
@@ -24,7 +22,6 @@ Use a terminal window, cd to the GEO2pandas directory and install the following:
 - pip install -e ./
 
 the last command will install GEO2pandas 
-
 
 
 ### Hands-on structure
